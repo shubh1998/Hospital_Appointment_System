@@ -1,0 +1,4 @@
+.form form input[type="text"]{
+	border: 10px dashed cyan;
+	border-radius: 10px;
+}
