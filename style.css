@@ -1,0 +1,141 @@
+.head h1 {
+    margin-top: 10%;
+}
+
+img {
+    width: 100%;
+}
+
+.navbar-collapse.collapse {
+    background-color: #00094f;
+}
+
+.navbar-header {
+    background-color: #00094f;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+    background-color: darkblue;
+    color: white;
+}
+
+.navbar-default .navbar-toggle:focus,
+.navbar-default .navbar-toggle:hover {
+    background-color: darkblue;
+}
+
+.navbar navbar-default .collapse navbar-collapse .nav navbar-nav ul li a:hover {
+    background-color: orange;
+}
+
+.top-web-content {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #3D9970;
+    color: white;
+}
+
+.top-web-content ol li {
+    font-size: 24px;
+}
+
+.bottom-web-content {
+    padding-top: 35px;
+    padding-bottom: 60px;
+    background-color: #3D9970;
+    color: white;
+}
+
+.bottom-web-content ol li {
+    font-size: 24px;
+}
+
+.last-web-content {
+    padding-top: 25px;
+    padding-bottom: 10px;
+    background-color: #3D9970;
+    color: white;
+}
+
+.last-web-content ol li {
+
+    font-size: 24px;
+}
+
+.footer {
+    margin-top: 30px;
+    background-color: #00094f;
+    float: left;
+    line-height: 100px;
+}
+
+.footer ul li {
+    list-style: none;
+    text-decoration: none;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.footer ul h5 {
+    color: white;
+    line-height: 80px;
+    float: right;
+    margin-right: 70px;
+}
+
+.footer ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer ul li a:hover {
+    color: orange;
+}
+
+.social-media {
+    height: 25px;
+    width: 25px;
+}
+
+.contact {
+    padding-left: 100px;
+}
+
+.formip {
+    float: left;
+    background-color: red;
+}
+
+.formip form {
+    float: left;
+    background-color: black;
+    margin: 10px;
+}
+
+.formip input {
+    width: 98%;
+    border: 2px solid black;
+    padding: 8px;
+    margin: 5px;
+}
+
+.formip input[type=submit] {
+    width: 15%;
+    border: 2px solid black;
+    padding: 8px;
+    margin: 5px;
+}
+
+.formip textarea {
+    width: 98%;
+    border: 2px solid black;
+    padding: 8px;
+    margin: 2px;
+}
